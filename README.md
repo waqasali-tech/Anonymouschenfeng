@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning universty called UMT
 - 💞️ I’m looking to collaborate on PROJECTS
-- 📫 How to reach me BY EMAIL
+- 📫 How to reach me BY EMAIL(F2023376281@umt.edu.pk)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
