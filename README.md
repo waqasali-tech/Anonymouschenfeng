@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Anonymouschenfeng
-- 👀 I’m interested in web development
+- 👋 Hi, I’m WAQAS ALI
+- 👀 I’m interested in software development
 - 🌱 I’m currently learning universty called UMT
 - 💞️ I’m looking to collaborate on PROJECTS
-- 📫 How to reach me BY EMAIL(F2023376281@umt.edu.pk)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me BY EMAIL(waqasvanikay2030@gmail.com)
+
 
 <!---
 Anonymouschenfeng/Anonymouschenfeng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
