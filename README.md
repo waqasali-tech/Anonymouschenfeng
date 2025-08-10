@@ -1,11 +1,5 @@
-- 👋 Hi, I’m WAQAS ALI
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning universty called UMT
-- 💞️ I’m looking to collaborate on PROJECTS
-- 📫 How to reach me BY EMAIL(waqasvanikay2030@gmail.com)
-
-
-<!---
-Anonymouschenfeng/Anonymouschenfeng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Software Developer | AI Student | Flutter & C++ Enthusiast  
+💡 Passionate about creating scalable apps and AI solutions  
+🌍 GitHub: [https://github.com/waqasali-tech]
+🔗 LinkedIn: [https://www.linkedin.com/in/waqas-ali-928855309/]  
+📫 Email: waqasvanikay2030@gmail.com
